@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2182,6 +2182,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180811T195503Z" creationid="Joey" creationdate="20180811T195503Z">
         <seg>"Me?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“战无双，你还不动手帮他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181119T043725Z" creationid="Liawz" creationdate="20181119T043725Z">
+        <seg>"Zhan Wushuang, aren't you going to help him?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12646,6 +12654,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180817T030925Z" creationid="Joey" creationdate="20180817T030925Z">
         <seg>Chapter 14: Jiang Henshui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十四章 看走眼了</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181119T043407Z" creationid="Liawz" creationdate="20181119T043407Z">
+        <seg>Chapter 14: Wrong Judgment</seg>
       </tuv>
     </tu>
     <tu>
