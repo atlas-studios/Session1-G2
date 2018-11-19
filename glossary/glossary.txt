@@ -1004,3 +1004,5 @@
 炼丹房	alchemy lab
 镇西王	Western Garrison Liege Lord
 战无双	Zhan Wushuang
+江麒麟	Jiang Qilin
+爆元掌	Exploding Essence Palm
