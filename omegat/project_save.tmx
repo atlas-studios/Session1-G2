@@ -480,8 +480,8 @@
       <tuv lang="ZH-CN">
         <seg>“你真的没吃过人？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T141446Z" creationid="Liawz" creationdate="20181121T141446Z">
-        <seg>"Were you being truthful about not eating human before?" the girl asked.</seg>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T172637Z" creationid="Liawz" creationdate="20181121T141446Z">
+        <seg>"Were you being truthful about not eating humans before?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1138,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Liawz" changedate="20181121T142401Z" creationid="Liawz" creationdate="20181121T142401Z">
         <seg>"Hmmm, then you can go now. Eat more grass when you get back home and give birth to a herd of vegetarian rabbits," she said as waved for it to leave. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哦，那谢谢了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T172556Z" creationid="Liawz" creationdate="20181121T172556Z">
+        <seg>"Oh, thanks then."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2356,8 +2364,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“我又没有虐杀小动物的癖好，骗你干嘛？”它又没吃人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T143505Z" creationid="Liawz" creationdate="20181121T143505Z">
-        <seg>"Why would I lie? I don't have a fetish for torturing and killing small animals, they don't even eat mortals," she said.</seg>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T172618Z" creationid="Liawz" creationdate="20181121T143505Z">
+        <seg>"Why would I lie? I don't have a fetish for torturing and killing small animals, they don't even eat mortals."</seg>
       </tuv>
     </tu>
     <tu>
