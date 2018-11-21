@@ -750,10 +750,18 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“可是……除了六派三宗，谁还有实力，能在三个月内，杀掉所有出界的妖族。”虎王还是坚持自己的想法。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181121T175701Z" creationid="wei li" creationdate="20181121T175701Z">
+        <seg>"Other than the /////, who else has the power to kill all the demons crossing the realms within three months?" the Tiger King still maintained his stand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“可是我们跟这些修仙门派，向来泾渭分明，他们为何突然阻我等出界之路。”狐王一脸疑惑。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wei li" changedate="20181121T173904Z" creationid="wei li" creationdate="20181121T173646Z">
-        <seg>"But there was always a clear boundary between those ///// sect and us, why would they suddenly obstruct our path to the mortal world?" the Fox King's face was filled with confusion.  </seg>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181121T174156Z" creationid="wei li" creationdate="20181121T173646Z">
+        <seg>"But there was always a clear boundary between those ///// sect and us, why would they suddenly obstruct our way out of the Demon Realm?" the Fox King's face was filled with confusion.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2074,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“对，大家都知道我界的妖气对他们修为有损，所以他们从不靠近边界林，又怎么会专程守在此处。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181121T175512Z" creationid="wei li" creationdate="20181121T175512Z">
+        <seg>"Yes, everyone knows that our Demon Realm's demonic aura would cause harm to their powers, so they do not come close to the division boundary. Why else would they guard this place?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“封印元力对练？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180911T062645Z" creationid="USER" creationdate="20180816T071840Z">
@@ -2238,6 +2254,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180817T044451Z" creationid="Joey" creationdate="20180817T044451Z">
         <seg>"Young Master, is this real purple gold? I'm not dreaming, am I? And... Young Master, can your seal really be broken?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“就是！”豹王也愤愤不平道，“这么多年都这样过来了，哪个妖没有吃过个把凡人，三宗六派怎么会突然发难？我觉得不是他们。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181121T174856Z" creationid="wei li" creationdate="20181121T174856Z">
+        <seg>"Exactly!" the Leopard King exclaimed indignantly, "So many years have passed, which demon hasn't eaten any mortals before? Why would the ///// suddenly revolt against us? I don't think they did it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,8 +3040,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“没错，这些出界的妖，最过份也只顶多出去吃几个凡人而已。又没吃他们三宗六派的第子。”蛇王也猜测道，“他们没必要这样撕破脸吧？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wei li" changedate="20181121T174139Z" creationid="wei li" creationdate="20181121T173858Z">
-        <seg>"I agree, these demons who went out of the Demon realm probably   "</seg>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181121T174426Z" creationid="wei li" creationdate="20181121T173858Z">
+        <seg>"I agree, these demons who went out of the Demon realm probably went to eat a few mortals at most, and not their ///// disciples." the Snake King speculated, "there is no need for them to fall out with us openly." </seg>
       </tuv>
     </tu>
     <tu>
@@ -3632,8 +3656,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“这事还用猜吗？”虎王冷哼了一声，“除了六派三宗里那些修士，谁会干这种事。这些年我们被他宰杀的妖还少吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wei li" changedate="20181121T173713Z" creationid="wei li" creationdate="20181121T172225Z">
-        <seg>"Do we still need to guess?" the Tiger King snorted, "Apart from /////, no one else will do this. They killed so many of our kind across these years."</seg>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181121T174917Z" creationid="wei li" creationdate="20181121T172225Z">
+        <seg>"Do we still need to guess?" the Tiger King snorted, "Apart from /////, no one else would do this. They killed so many of our kind across these years."</seg>
       </tuv>
     </tu>
     <tu>
