@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“上仙慢走！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T175350Z" creationid="Liawz" creationdate="20181121T175310Z">
+        <seg>"Take care!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“上仙放心，它们都是素食妖类。”兔王简直不敢相信，她居然这么好说话，而且好像还……挺客气，“那就这么说定了，明日开始我就给上仙送食材。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Liawz" changedate="20181121T174941Z" creationid="Liawz" creationdate="20181121T174941Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Liawz" changedate="20181121T162558Z" creationid="Liawz" creationdate="20181121T131551Z">
         <seg>"We failed to recognize how formidable you are and offended you, I was wrong! Please forgive me and spare my life, Exalted Immortal" cried the Rabbit King, its face filled with tears and mucus. It kowtowed like its life depended on it, puffing up its fur as it trembled with fear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“上仙！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T175403Z" creationid="Liawz" creationdate="20181121T175403Z">
+        <seg>"Exalted Immortal!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +338,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T090651Z" creationid="USER" creationdate="20180811T082915Z">
         <seg>"No! Definitely not !"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不辛苦。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T175220Z" creationid="Liawz" creationdate="20181121T175220Z">
+        <seg>"There's no trouble."</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +586,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180817T022121Z" creationid="Joey" creationdate="20180817T022121Z">
         <seg>"I'll try it again!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“再见。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T175342Z" creationid="Liawz" creationdate="20181121T175342Z">
+        <seg>"Goodbye."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3498,6 +3530,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065347Z" creationid="USER" creationdate="20180803T073510Z">
         <seg>"Boom!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“辛苦你了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T175256Z" creationid="Liawz" creationdate="20181121T175204Z">
+        <seg>"Thank you for your trouble."</seg>
       </tuv>
     </tu>
     <tu>
