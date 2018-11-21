@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“呃……你果然是只兔子，下次能换一种不？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T190044Z" creationid="Liawz" creationdate="20181121T190044Z">
+        <seg>"Ummm, you are indeed a rabbit, could I have a different kind the next time?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“呜呜！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T052124Z" creationid="USER" creationdate="20180803T061632Z">
@@ -1914,6 +1922,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好得上仙，没问题上仙！上仙你还有什么需要吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T190117Z" creationid="Liawz" creationdate="20181121T190117Z">
+        <seg>"Sure, no problem! Do you need anything else?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好机会！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180918T095848Z" creationid="Joey" creationdate="20180918T095848Z">
@@ -2078,6 +2094,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T004516Z" creationid="Joey" creationdate="20180814T065735Z">
         <seg>"Oh yes, I have consumed all of my black essence force. I have to hurry and refine more, which I can use at any time. Addtionally, I consumed too much blue essence force during the reheating yesterday - I have to make up for that loss." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对呀，可水灵了，你瞧这颜色，这水份。我们族里最爱吃了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T185930Z" creationid="Liawz" creationdate="20181121T185930Z">
+        <seg>"Yup, look at the color, it's so fresh and juicy! Our kind loves to eat them."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2754,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“有是有，你能不能……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T190135Z" creationid="Liawz" creationdate="20181121T190135Z">
+        <seg>"Actually I do, could you..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“来人，去把苍狼给我请来！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T213207Z" creationid="Joey" creationdate="20180922T213207Z">
@@ -3040,6 +3072,14 @@ Jiang Yi had no desire to stir up trouble, but Jiang Bao clearly had no desire t
       </tuv>
       <tuv lang="EN-US" changeid="Liawz" changedate="20181121T175512Z" creationid="Liawz" creationdate="20181121T175512Z">
         <seg>"Take care, Exalted Immortal Shen..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“沈上仙，我又来了！这是妖界最好吃的东西，您看看！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T185757Z" creationid="Liawz" creationdate="20181121T185757Z">
+        <seg>"Exalted Immortal Shen, I'm here again! Look, here's the tastiest thing in the Demon Realm!" </seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3562,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T060259Z" creationid="Joey" creationdate="20180813T033001Z">
         <seg>"Their medical efficacy did indeed increase by a lot!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“萝卜？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T185811Z" creationid="Liawz" creationdate="20181121T185811Z">
+        <seg>"Carrots?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13438,6 +13486,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062937Z" creationid="USER" creationdate="20180810T031712Z">
         <seg>The next day, Jiang Yi was already up before daybreak. He meditated for two hours practicing the Jiang Water Art. After breakfast, he instructed Jiang Xiaonu to hide at Chun Ya's house for the next few days if she was not busy, in case Jiang Ruhu came looking for trouble. He then made his way to the alchemy lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第二次醒来的时候，他还是躺在那里，连身都没翻一下，这次比上次好，隐隐能听到声音了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181121T185618Z" creationid="Liawz" creationdate="20181121T185618Z">
+        <seg>When he was awakened for the second time, he was still lying in the same place and position, but this time it was better, he had slowly regained his hearing. </seg>
       </tuv>
     </tu>
     <tu>
