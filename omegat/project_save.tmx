@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不用了，我又没做啥。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181122T093640Z" creationid="Liawz" creationdate="20181122T093640Z">
+        <seg>"There is no need for that, I didn't do anything."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不用了，我回头再来好了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180910T225743Z" creationid="USER" creationdate="20180815T031834Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="wei li" changedate="20181122T084025Z" creationid="wei li" creationdate="20181122T084025Z">
         <seg>"No, I'm serious," the girl raised her hand impenitently, yet her shoulders sagged further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不，此恩一定要报，不然有违我的道心。请恩人尽管吩咐。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181122T094013Z" creationid="Liawz" creationdate="20181122T094013Z">
+        <seg>"No, I must repay your debt, or it will be against my Dao Heart. I am at your command."</seg>
       </tuv>
     </tu>
     <tu>
