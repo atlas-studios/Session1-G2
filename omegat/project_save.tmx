@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你……”羿清刚憋出的大招卡住了，一时间不知道当不当放。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181122T154545Z" creationid="wei li" creationdate="20181122T154545Z">
+        <seg>"Erm..." Yi Qing's attack was halted midway and he did not know whether to continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你……开玩笑？”沈萤嘴角抽了抽，这人脑子没事吧？他好像之前萝卜过敏来着，不会有啥后遗症吧？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Liawz" changedate="20181122T124418Z" creationid="Liawz" creationdate="20181122T124418Z">
@@ -2902,6 +2910,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Liawz" changedate="20181122T094739Z" creationid="Liawz" creationdate="20181122T094739Z">
         <seg>"Take your time!" he said as he bowed again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“您好，请问沈上仙在吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wei li" changedate="20181122T154429Z" creationid="wei li" creationdate="20181122T154429Z">
+        <seg>"Greetings, may I speak to Exalted Immortal Shen?"</seg>
       </tuv>
     </tu>
     <tu>
