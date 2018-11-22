@@ -680,8 +680,8 @@
       <tuv lang="ZH-CN">
         <seg>“兔子们呢？哪去了？”她转头看了看，发现屋子已经修好了，而且还长大长宽了，从一个单间的小茅屋，变成了五室的大茅屋。是群好兔子啊！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Liawz" changedate="20181122T110530Z" creationid="Liawz" creationdate="20181122T110530Z">
-        <seg>"Where did all the rabbits go?" She looked around and realized that her house was not only fully repaired, it was renovated and expanded from a single room to a five-room cottage. </seg>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181122T110654Z" creationid="Liawz" creationdate="20181122T110530Z">
+        <seg>"Where did all the rabbits go?" She looked around and realized that her house was not only fully repaired, it was renovated and expanded from a single room to a five-room cottage. What a bunch of nice rabbits!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2182,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180828T101902Z" creationid="USER" creationdate="20180810T054655Z">
         <seg>"This boy is promising and worthy of being taught. This son of the Jiang Family is definitely much smarter than Jiang Song..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“它们盖好了房子，怕打扰您睡觉，就先行回去了。”羿清解释，指了指屋前那一堆的食材道，“这是兔王留下的，说是今日的份例。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Liawz" changedate="20181122T110856Z" creationid="Liawz" creationdate="20181122T110637Z">
+        <seg>"They didn't want to disturb your sleep, so they went back after renovating your house," Yi Qing explained. "The Rabbit King left today's rations there," he said, as he pointed to the heap of food in front of the house. </seg>
       </tuv>
     </tu>
     <tu>
